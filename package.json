@@ -1,0 +1,30 @@
+{
+  "name": "com.maginsoft.mfilechooser",
+  "version": "1.0.0",
+  "description": "File Chooser for Cordova/Phonegap",
+  "cordova": {
+    "id": "com.maginsoft.mfilechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingleware/MFileChooser.git"
+  },
+  "keywords": [
+    "cordova",
+    "filechooser",
+    "android",
+    "filepicker",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Abakhov Sergey (MarginSoft)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pingleware/MFileChooser/issues"
+  },
+  "homepage": "https://github.com/pingleware/MFileChooser#readme"
+}
